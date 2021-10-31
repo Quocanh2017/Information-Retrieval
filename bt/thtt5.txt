@@ -1,0 +1,19 @@
+THTT-05
+1.
+P = 8/18 (chính xác/ tổng số vb trả về)
+R = 8/20 (chính xác/ tổng số vb)
+F = 2PR/(P+R) 
+2.
+hệ 1: R = 2/4 (lấy 4 cái đầu đếm số R)
+hệ 2: R = 1/4
+3.
+P = 6/20
+R = 6/8
+F = ...
+4.
+a, P = 1/5
+   R = 1/2
+   F = ...
+b, P = 5/5
+   R = 5/10
+   F = ...
